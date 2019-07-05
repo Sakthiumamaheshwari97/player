@@ -1,0 +1,2 @@
+gum=input()
+print(gum+".")
