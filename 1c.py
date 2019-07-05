@@ -1,2 +1,2 @@
-put=input()
-print(put[::-1])
+dora=input()
+print(dora[::-1])
