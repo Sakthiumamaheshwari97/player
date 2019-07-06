@@ -1,2 +1,2 @@
-lap=input()
-print(lap.title())
+milk=input()
+print(milk.title())
