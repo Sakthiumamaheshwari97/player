@@ -5,5 +5,5 @@ for i in aks:
   if i in ball:
     t=ball.index(i)
     t=t+3
-    call=c+ball[t]
+    call=call+ball[t]
 print(call)
