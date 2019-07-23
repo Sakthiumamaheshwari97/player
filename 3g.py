@@ -1,0 +1,5 @@
+uy=int(input())
+list1=input().split()
+gu=sorted(list1)
+hi=sort(gu)
+print(hi,end=" ")
